@@ -6,6 +6,10 @@ This project demonstrates the implementation of an automated retail checkout sys
 
 ## Features
 
+https://github.com/user-attachments/assets/fd975328-101d-462d-be8f-a4e683c5f2aa
+
+
+
 - **RFID Product Scanning**: Automatically scans and identifies products as they are added to the trolley.
 - **Real-Time Cart Updates**: Product details are displayed on an LCD screen and synchronized with a web-based interface for real-time tracking.
 - **Seamless Checkout**: Eliminates the need for traditional cashier-based checkout, enabling a smooth and contactless payment experience.
