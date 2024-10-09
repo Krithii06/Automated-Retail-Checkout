@@ -3,7 +3,6 @@
 ## Overview
 
 This project demonstrates the implementation of an automated retail checkout system using RFID technology, Arduino Uno, ESP8266, and a ReactJS-based web application. The system allows for seamless scanning of products, real-time cart updates, and a contactless checkout experience.
-https://github.com/user-attachments/assets/02a3f8df-80cc-4667-bf73-134aabd9c0ea
 
 ## Features
 
